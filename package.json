@@ -1,0 +1,28 @@
+{
+  "name": "aes-256-encrypter",
+  "version": "1.0.0",
+  "description": "A simple node js encrypter/decrypter powered by aes 256 bit.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdityaXJha/AES-256-encrypter"
+  },
+  "keywords": [
+    "nodejs",
+    "aes",
+    "256-bit",
+    "encryption",
+    "encrypter",
+    "decrypter",
+    "decryption"
+  ],
+  "author": "Aditya Jha",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "recursive-readdir": "^2.2.2"
+  }
+}
